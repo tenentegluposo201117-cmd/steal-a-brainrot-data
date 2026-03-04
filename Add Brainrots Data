@@ -1,0 +1,15 @@
+brainrots.json
+[
+  {
+    "name": "Noobini Pizzanini",
+    "rarity": "Common",
+    "income": 5,
+    "cost": 25
+  },
+  {
+    "name": "Lirili Larila",
+    "rarity": "Common",
+    "income": 10,
+    "cost": 75
+  }
+]
