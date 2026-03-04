@@ -1,0 +1,6 @@
+traits.json
+[
+  { "name": "Strawberry", "multiplier": 8, "category": "Best" },
+  { "name": "TacoTaco", "multiplier": 3, "category": "Admin" },
+  { "name": "Skibidi", "multiplier": 6.5, "category": "Rare" }
+]
